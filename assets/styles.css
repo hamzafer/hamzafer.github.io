@@ -41,7 +41,7 @@ a:active, a:visited {
     flex: 1;
 }
 .link-text{
-    text-decoration: underline !important;
+    text-decoration: underline;
 }
 .link-text:hover{
     color: rgb(255, 120, 110);
