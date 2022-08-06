@@ -1,1 +1,0 @@
-# My Portfolio: [Hamza Zafar](http://hamzafer.me/)
