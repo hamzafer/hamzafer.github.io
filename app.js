@@ -1,4 +1,3 @@
-
 const cube = document.getElementById("cube");
 const panels = document.querySelectorAll(".clickable");
 
